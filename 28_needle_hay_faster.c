@@ -1,3 +1,4 @@
+//ex 28 improved
 #include <string.h>
 #include <stdio.h>
 
