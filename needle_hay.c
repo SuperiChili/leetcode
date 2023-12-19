@@ -23,11 +23,11 @@ int strStr(char* haystack, char* needle)
     }
     return (-1);
 }
-
+/*
 int main(void)
 {
 	int result;
 
-	result = strStr("leetcodeleeto", "leeto");
+	result = strStr("leetcodeleetxo", "leetxo");
 	printf("%d\n", result);
-}
+}*/
