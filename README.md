@@ -1,5 +1,5 @@
 # leetcode
 Some of my projects on leetcode.
-On each file the first commented out line contain the exercise nr.
+Each file name starts with the project number. Some projects have multiple (improved) versions.
 
 https://leetcode.com/razvopaic/
